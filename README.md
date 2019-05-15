@@ -66,3 +66,50 @@ In the `objects/__tests__` folder, you'll find a file called `vehicle.test.js` t
 
 ### Assignment Submission Instructions
 Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
+
+LAB-02
+=================================================
+
+## Class, Inheritance, Functional Programming
+
+### Author: Rebecca Peterson
+
+### Links and Resources
+* [submission PR](https://github.com/401-advanced-javascript-bp/lab-02-classes/pull/2)
+* [travis](https://travis-ci.com/401-advanced-javascript-bp/lab-02-classes)
+
+
+#### Documentation
+* [api docs](http://xyz.com) (API servers)
+* [jsdoc](http://xyz.com) (Server assignments)
+* [styleguide](http://xyz.com) (React assignments)
+
+### Modules
+#### `modulename.js`
+##### Exported Values and Methods
+
+###### `foo(thing) -> string`
+Usage Notes or examples
+
+###### `bar(array) -> array`
+Usage Notes or examples
+
+### Setup
+#### `.env` requirements
+* `PORT` - Port Number
+* `MONGODB_URI` - URL to the running mongo instance/db
+
+#### Running the app
+* `npm start`
+* Endpoint: `/foo/bar/`
+  * Returns a JSON object with abc in it.
+* Endpoint: `/bing/zing/`
+  * Returns a JSON object with xyz in it.
+  
+#### Tests
+* How do you run tests?
+* What assertions were made?
+* What assertions need to be / should be made?
+
+#### UML
+Link to an image of the UML for your application and response to events
